@@ -1,4 +1,5 @@
 import './Header.css'
+import Saudacao from './Saudacao'
 
 function Header() {
   return (
@@ -10,6 +11,10 @@ function Header() {
       </div>
 
       <nav className="menu">
+
+        <>
+        <Saudacao nome="Bianca"/>
+        </>
 
         <a href="/">Início</a>
 

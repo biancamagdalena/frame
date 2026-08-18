@@ -1,4 +1,5 @@
 import Header from "./components/Header/Header"
+import Saudacao from "./components/Header/Saudacao"
 const curso = "Desenvolvimento Web"
 const tecnologia = "React"
 
@@ -17,6 +18,10 @@ function App() {
           Meu primeiro projeto utilizando React. {tecnologia}
         </p>
       </main>
+
+       <>
+        <Saudacao nome="Bianca"/>
+        </>
 
     </div>
   )

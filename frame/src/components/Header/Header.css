@@ -5,9 +5,9 @@
 
     padding: 18px 40px;
 
-    background-color: #d02828;
+    background-color: #824ba7;
 
-    color: white;
+    color: #E8E2EA;
 }
 
 .logo {
@@ -34,7 +34,7 @@
 }
 
 .menu a {
-    color: white;
+    color: #E8E2EA;
 
     text-decoration: none;
 
@@ -44,5 +44,5 @@
 }
 
 .menu a:hover {
-    color: #00bcd4;
+    color: #3f0f5f;
 }
